@@ -1,5 +1,3 @@
-以下是为您的脚本 `read_h1.py` 编写的 README 文件：
-
 # read_CN-H1 - README
 
 ## 简介
