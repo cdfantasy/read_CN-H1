@@ -2,7 +2,7 @@
 
 ## 简介
 
-`read_h1.py` 是一个用于读取 MGrid 数据并计算和绘制磁场分布的 Python 脚本。该脚本使用了 `numpy`、`scipy.io` 和 `matplotlib` 等库，并且需要安装 `mgrid` 包。
+`read_h1.py` 是一个用于读取 MGrid 数据并计算和绘制磁场分布的 Python 脚本。该脚本使用了 `numpy`、`scipy.io` 和 `matplotlib` 等库，并且需要安装 `mgrid`（from SIMSOPT） 包。
 
 ## 依赖
 
